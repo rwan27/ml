@@ -4,7 +4,7 @@
 #
 import numpy as np
 import pandas as pd
-import matplotlib.pyplot as plt
+#import matplotlib.pyplot as plt
 from tensorflow.keras.datasets import mnist
 from tensorflow.keras import models
 from tensorflow.keras.utils import to_categorical
